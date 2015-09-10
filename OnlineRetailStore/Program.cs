@@ -12,13 +12,13 @@ namespace OnlineRetailStore
         {
             Customer myCustomer = new Customer();
             Order myOrder = new Order();
-            Console.Write("Enter Customer name: ");
-            myCustomer.CustName = Console.ReadLine();
+            //Console.Write("Enter Customer name: ");
+           // myCustomer.CustName = Console.ReadLine();
 
-            Console.WriteLine("Customer ID : {0}, Customer Name : {1}, Order Details {2}",
-               myCustomer.CustID, myCustomer.CustName, myorder. );
+           // Console.WriteLine("Customer ID : {0}, Customer Name : {1}, Order Details {2}",
+           //    myCustomer.CustID, myCustomer.CustName, myorder. );
             
-            rea
+           // rea
         }
     }
 }

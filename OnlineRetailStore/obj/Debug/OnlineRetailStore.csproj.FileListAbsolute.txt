@@ -1,1 +1,2 @@
 c:\users\geethu\documents\visual studio 2015\Projects\OnlineRetailStore\OnlineRetailStore\obj\Debug\OnlineRetailStore.csprojResolveAssemblyReference.cache
+C:\Users\Geetu\Documents\Github\OnlineRetailStore\OnlineRetailStore\obj\Debug\OnlineRetailStore.csprojResolveAssemblyReference.cache

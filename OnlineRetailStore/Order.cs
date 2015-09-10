@@ -24,6 +24,8 @@ namespace OnlineRetailStore
 
         also want to give a option for cutomer to choose from product and when they choose 
         we have to display the cost and option to choose size and qty */
+        //Products.prodDiscription= DiscriptionOfProd.productsize;
+        
 
         #region properties
 

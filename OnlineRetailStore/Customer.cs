@@ -32,7 +32,7 @@ namespace OnlineRetailStore
         /// <summary>
         /// Get customer Phone Number
         /// </summary>
-        public int CustPhone { get; set; }
+        public string CustPhone { get; set; }
         /// <summary>
         /// Get customer Address
         /// </summary>
@@ -40,7 +40,7 @@ namespace OnlineRetailStore
         /// <summary>
         /// Get customer Credit Card number
         /// </summary>
-        public int CustCreditCard { get; set; }
+        public string CustCreditCard { get; set; }
         /// <summary>
         /// Get customer name
         /// </summary>
